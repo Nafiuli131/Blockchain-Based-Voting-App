@@ -15,3 +15,6 @@ In this project I'm using
 1.Node JS, Express JS
 2.SHA 256 algorithm
 3.Web developing tools (HTML, CSS)
+
+The result page is like,
+![Screenshot (110)](https://user-images.githubusercontent.com/32985815/88473160-7bc95180-cf3c-11ea-95ca-14397621c06f.png)
